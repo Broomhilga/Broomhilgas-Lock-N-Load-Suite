@@ -1,0 +1,3 @@
+Copy "lockandload_base.blp" to "\Interface\AddOns\WeakAuras\Media\Textures\"
+
+Save a copy of the file because any time you update the WeakAuras Addon, you will most likely have to copy the texture file again.
